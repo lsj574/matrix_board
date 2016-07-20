@@ -1,4 +1,5 @@
 Schematic by Lee SeokJun
 
 WS2812B Eeschema library by Thomas Soëte (https://github.com/Alkorin/kicad)
-TO-263 Footprint by Walter Lain (http://smisioto.eu/kicad_libs/)
+LM2678 Eeschema library by Robotronik Phelma (https://github.com/robotronik/electronique)
+TO-263-7C footprint by Lee SeokJun; Modified default footprint of KiCad

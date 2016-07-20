@@ -1,4 +1,4 @@
-update=2016년 07월 13일 (수) 오전 02시 39분 09초
+update=2016년 07월 20일 (수) 오후 10시 49분 39초
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=libraries/ws2812b
 LibName31=stm32
 LibName32=switches
+LibName33=libraries/lm2678
